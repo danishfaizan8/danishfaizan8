@@ -6,23 +6,7 @@
 
 I am a passionate software developer with a strong background in computer science. Currently pursuing my Master's degree at Illinois Tech, I am eager to solve complex problems and build scalable, high-performance systems. I have experience with full-stack development, cloud technologies, and system design, and I am constantly learning to stay up-to-date with the latest advancements in the tech industry.
 
-Currently building a **"Scalable logging and monitoring system"** designed to handle high-throughput logging with real-time monitoring capabilities. The system utilizes technologies such as Kafka, MongoDB, Redis, Grafana, and AWS to create an asynchronous, fault-tolerant logging pipeline.
 
-**Key Features:**
-
-**Express API:** Receives logs and pushes them to Kafka.
-
-**Kafka Consumer:** Processes logs asynchronously and stores them in MongoDB.
-
-**Redis Caching:** Optimizes log retrieval by caching frequently accessed data.
-
-**Grafana Integration:** Provides real-time monitoring and log visualization.
-
-**Cloud Deployment:** Deployed on AWS using Terraform for scalable infrastructure.
-
-**CI/CD:** Automated deployment with GitHub Actions for continuous integration and delivery.
-
-This project aims to provide an efficient, scalable solution for logging, monitoring, and troubleshooting in distributed systems.
 
 
 # 💻 Tech Stack:
