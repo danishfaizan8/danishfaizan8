@@ -1,5 +1,5 @@
 # Hi, I'm Danish Faizan Mohammed 👋
-**Software Engineer | 🎓 MS CS Grad Student at Illinois Tech!**  
+**Data Engineer | Software Engineer | 🎓 MS CS Grad Student at Illinois Tech!**  
 
 
 **About Me:**
